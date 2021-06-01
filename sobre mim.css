@@ -61,7 +61,9 @@ a {
 }
 
 .copyright {
-  margin: -5rem 30%;
+  display: block;
+  text-align: center;
+  margin: -5rem;
   border-left: aliceblue;
   color: aliceblue;
 }
