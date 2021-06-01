@@ -34,7 +34,8 @@ header {
   margin: -35px;
 }
 .foto img {
-  margin: 0 28%;
+  display: box;
+  margin: 0px auto;
   box-shadow: 0 0 1em gray;
 }
 
