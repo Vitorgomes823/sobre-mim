@@ -45,7 +45,8 @@ p {
 
 .jogos img {
   width: 400px;
-  margin: 0 32%;
+  display: block;
+  margin: 0px auto;
   box-shadow: 0 0 1em gray;
 }
 
@@ -62,7 +63,8 @@ a {
 }
 
 .copyright {
-  margin: -5rem 30%;
+  text-align: center;
+  margin: -5.5rem;
   border-left: aliceblue;
   color: aliceblue;
 }
